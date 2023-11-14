@@ -1,7 +1,7 @@
 # Acharius
 A hidden object lichen hunting game written in Lua
 
-Acharius is a tiny hidden object game for those who are likin' the lichens! An educational minigame designed for a nonexistent school of lichenology (if only). Made with a love for all things fungi for Mushroom jam.
+Acharius is a tiny hidden object game for those who are likin' the lichens! An educational minigame designed for a nonexistent school of lichenology (if only). Made with a love for all things fungi for Mushroom jam: https://itch.io/jam/mushroomm
 
 Use the up/down/left/right directional buttons to navigate the cemetery and uncover specimens for your collection.  Leave the console open to reveal details on your finds.
 
